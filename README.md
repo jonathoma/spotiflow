@@ -1,2 +1,2 @@
 # spotiflow
-Spotiflow project
+SpotiFLOW project
